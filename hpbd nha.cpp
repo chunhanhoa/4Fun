@@ -1,0 +1,16 @@
+#include <stdio.h>
+#include <string.h>
+#include <math.h>
+#include <stdlib.h>
+void Hpbd(int a)
+{
+	printf("\n()_()\n(•_•)\n/ > 🎁");
+}
+int main()
+{
+	int a;
+	scanf("%d",&a);
+	Hpbd(a);
+	printf("Happy Birthday nha:>\nSao chép rồi mở này đi: https://files.fm/f/c8es8zs8t9");
+	return 0;
+}
