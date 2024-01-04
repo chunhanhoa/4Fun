@@ -1,0 +1,22 @@
+#include <stdio.h>
+ 
+#include <string.h>
+ 
+#include <math.h>
+ 
+#include <stdlib.h>
+ 
+void Hpbd(int a)
+{
+	printf("\n()_()\n(•◡•)\n/ > 🎁");
+}
+int main()
+{
+	int a;
+	scanf("%d",&a);
+	printf("Happy Birthday nha");
+	Hpbd(a);
+	printf("\n🎂 ước đi nè:>\n");
+	return 0;
+}
+ 
